@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "nodeJS(1)",
+  "identifier": "texture:4381-d8007bcd-22fb-4327-af07-feb4b1162874",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "288dcb646b61a31ba4ff457185aaba6d",
+  "assetLocator": "textures/nodeJS(1).webp",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 500,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1000,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "288dcb646b61a31ba4ff457185aaba6d",
+      "colorCount": 40,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "webp",
+      "entropyOfDistribution": 0.8674693454839034,
+      "pixelsHigh": 500,
+      "pixelsWide": 1000
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Start",
+  "identifier": "texture:3919-d8007bcd-22fb-4327-af07-feb4b1162874",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "bce61e52b4aa88f11cc17a6460c6906c",
+  "assetLocator": "textures/Start.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 500,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 500,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "bce61e52b4aa88f11cc17a6460c6906c",
+      "colorCount": 6443,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 2.895101061421351,
+      "pixelsHigh": 500,
+      "pixelsWide": 500
+    }
+  ]
+}

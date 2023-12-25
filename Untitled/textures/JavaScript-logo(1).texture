@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "JavaScript-logo(1)",
+  "identifier": "texture:4373-d8007bcd-22fb-4327-af07-feb4b1162874",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "87de31224f2cd3ebcd689ae05d8cce4c",
+  "assetLocator": "textures/JavaScript-logo(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 768,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 768,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "87de31224f2cd3ebcd689ae05d8cce4c",
+      "colorCount": 531,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.7992463559856806,
+      "pixelsHigh": 768,
+      "pixelsWide": 768
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "C-Sharp-Tutorials(1)",
+  "identifier": "texture:4365-d8007bcd-22fb-4327-af07-feb4b1162874",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "05e2b6ec39ee28fd27491ab25d157892",
+  "assetLocator": "textures/C-Sharp-Tutorials(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 576,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "05e2b6ec39ee28fd27491ab25d157892",
+      "colorCount": 4468,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.1193058942671197,
+      "pixelsHigh": 576,
+      "pixelsWide": 1024
+    }
+  ]
+}

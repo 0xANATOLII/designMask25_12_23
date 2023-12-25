@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "20210726UmgangMitJava_teas_quelleOracleCom_w1200_h629(1)",
+  "identifier": "texture:4357-d8007bcd-22fb-4327-af07-feb4b1162874",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "e6a1ab98889e0cef375b58ff570b217a",
+  "assetLocator": "textures/20210726UmgangMitJava_teas_quelleOracleCom_w1200_h629(1).jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 536,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "e6a1ab98889e0cef375b58ff570b217a",
+      "colorCount": 12863,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 1.921010249675603,
+      "pixelsHigh": 536,
+      "pixelsWide": 1024
+    }
+  ]
+}
